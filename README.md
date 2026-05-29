@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 BTech Student | Web Developer | Python & DSA Learner<br>💻 Building responsive web projects and improving problem-solving skills daily<br>⚡ Passionate about coding, open-source, and continuous learning
+🚀 BTech Student | Web Developer | Python <br>💻 Building responsive web projects and improving problem-solving skills daily<br>⚡ Passionate about coding, open-source, and continuous learning
 
 
 ## 🌐 Socials:
